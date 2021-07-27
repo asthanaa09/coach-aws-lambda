@@ -1,0 +1,17 @@
+com\javatechie\aws\lambda\domain\Subject$FeeType.class
+com\javatechie\aws\lambda\domain\CatalogService.class
+com\javatechie\aws\lambda\domain\Sequence.class
+com\javatechie\aws\lambda\domain\Subject.class
+com\javatechie\aws\lambda\respository\StudentRepository.class
+com\javatechie\aws\lambda\respository\CatalogRepository.class
+com\javatechie\aws\lambda\respository\SubjectRepository.class
+com\javatechie\aws\lambda\domain\Student.class
+com\javatechie\aws\lambda\SpringbootAwsLambdaApplication.class
+com\javatechie\aws\lambda\domain\SequenceGeneratorService.class
+com\javatechie\aws\lambda\domain\Institute.class
+com\javatechie\aws\lambda\domain\BaseEntity.class
+com\javatechie\aws\lambda\domain\Catalog.class
+com\javatechie\aws\lambda\LambdaJavaAPI.class
+com\javatechie\aws\lambda\domain\Institution.class
+com\javatechie\aws\lambda\domain\Order.class
+com\javatechie\aws\lambda\GatewayResponse.class
